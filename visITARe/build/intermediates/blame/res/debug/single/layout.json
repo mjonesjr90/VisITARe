@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/html5container.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/layout/html5container.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/poiactivity.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/layout/poiactivity.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/activity_about_view.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/layout/activity_about_view.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/channel_detail_badge.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/layout/channel_detail_badge.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/button_action_detail.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/layout/button_action_detail.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/listview_row_layout.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/layout/listview_row_layout.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/poidetaildialog.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/layout/poidetaildialog.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/webviewnav.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/layout/webviewnav.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/activity_arelview.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/layout/activity_arelview.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/activity_visitaire_view.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/layout/activity_visitaire_view.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/arel.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/layout/arel.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/layout/activity_home.xml"
+    }
+]

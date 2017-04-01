@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/menu/about_view.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/menu/about_view.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/menu/arelview.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/menu/arelview.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/menu/visitaire_view.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/menu/visitaire_view.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/menu/node_data.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/menu/node_data.xml"
+    }
+]

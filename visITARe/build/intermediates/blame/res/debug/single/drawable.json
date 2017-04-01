@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/divider.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/button_detail_green.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/button_detail_green.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/selector_web_forward.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/selector_web_forward.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/rating_drawable.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/rating_drawable.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/selector_web_back.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/selector_web_back.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/selector_darker.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/selector_darker.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/default_video_poster.png",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/default_video_poster.png"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/toastbackground.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/toastbackground.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/button_detail_blue.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/button_detail_blue.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/simple_button_background_selector.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/simple_button_background_selector.xml"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable/progress_bar.xml",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/res/drawable/progress_bar.xml"
+    }
+]

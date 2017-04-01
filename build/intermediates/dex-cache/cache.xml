@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="be6360ebe68e3711853eb077715850a0c941294c">
+        <dex dex="/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eced926055efdc1c43858e2d16274f61635de859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/jars/libs/metaiosdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0440f0ccab1f590872e63c7521ca4e880b16dbda">
+        <dex dex="/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/8/metaiosdk_2d4f262669456adac08c4e4abbc8e5631c40c01e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/malcomjonesjr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_5e27d9dd4442fd78d27c3cb63642e4e3cf84bdb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bd28d8e0ab37e2aa73fe38421b0e495df53b61a1">
+        <dex dex="/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_160fd098e383ccba5bb38a37eb0ff3a1e83d242a/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/res/merged/debug/drawable-hdpi/cancel.png",
+        "source": "/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/res/drawable-hdpi/cancel.png"
+    }
+]

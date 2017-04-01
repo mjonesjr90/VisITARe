@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:15:22-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:16:22-76
+uses-sdk
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:18:5-20:41
+MERGED from [VisITARe:metaioSDK:unspecified] /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:20:9-38
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:19:9-35
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+		INJECTED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml
+application
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:22:5-59:19
+MERGED from [VisITARe:metaioSDK:unspecified] /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:26:9-41
+		REJECTED from [VisITARe:metaioSDK:unspecified] /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/exploded-aar/VisITARe/metaioSDK/unspecified/AndroidManifest.xml:11:18-43
+	android:allowBackup
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:27:9-40
+	tools:replace
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:25:9-38
+activity#com.thesis.visitare.HomeActivity
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:31:13-50
+	android:label
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:29:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:35:27-74
+activity#com.thesis.visitare.ARELViewActivity
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:40:13-60
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:39:13-64
+activity#com.thesis.visitare.VisitareView
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:42:9-46:20
+	android:screenOrientation
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:45:13-50
+	android:label
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:44:13-65
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:43:13-41
+activity#com.thesis.visitare.AboutView
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:49:13-62
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:48:13-57
+activity#com.thesis.visitare.Node
+ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:57:13-61
+	android:name
+		ADDED from /Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/src/main/AndroidManifest.xml:56:13-52

@@ -1,0 +1,7 @@
+#Sat Apr 01 16:16:41 EDT 2017
+base.0=/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eced926055efdc1c43858e2d16274f61635de859
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_160fd098e383ccba5bb38a37eb0ff3a1e83d242a/classes.dex
+base.1=/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_160fd098e383ccba5bb38a37eb0ff3a1e83d242a
+file.0=/Users/malcomjonesjr/dev/android/TEST/VisITARe/visITARe/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eced926055efdc1c43858e2d16274f61635de859/classes.dex

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VisITARe.iml" filepath="$PROJECT_DIR$/VisITARe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metaioSDK/metaioSDK.iml" filepath="$PROJECT_DIR$/metaioSDK/metaioSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visITARe/visITARe.iml" filepath="$PROJECT_DIR$/visITARe/visITARe.iml" />
+    </modules>
+  </component>
+</project>

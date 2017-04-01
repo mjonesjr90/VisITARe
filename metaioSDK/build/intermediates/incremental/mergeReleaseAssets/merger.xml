@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/malcomjonesjr/dev/android/TEST/VisITARe/metaioSDK/src/main/assets"/><source path="/Users/malcomjonesjr/dev/android/TEST/VisITARe/metaioSDK/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/malcomjonesjr/dev/android/TEST/VisITARe/metaioSDK/src/release/assets"/></dataSet></merger>
